@@ -35,3 +35,13 @@ public class MapMerge {
         }
     }
 }
+/*
+console out:
+A:199
+C:66
+C:null
+A:199
+B:200
+D:666
+*/
+
